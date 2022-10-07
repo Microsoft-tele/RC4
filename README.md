@@ -1,2 +1,2 @@
 # RC4
-crypto of RC$
+crypto of RC4
